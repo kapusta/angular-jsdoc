@@ -1,6 +1,18 @@
-Angular-JSDoc
+@dankapusta/angular-jsdoc
 =============
 
+ABOUT THIS FORK
+----------
+
+I don't intend for this fork to be issuing any PRs.
+
+* It's a one-off for my own use with [grunt-jsdoc](https://github.com/krampstudio/grunt-jsdoc) because the plugins path to markdown is in a diff place in the grunt-jsdoc repo (vs jsdoc's path). So there's a tiny modification.
+* I'll `git pull` from upstream as neccessary.
+* I'm using a scoped npm package for this repo (ie, "@dankapusta/angular-jsdoc").
+
+
+About
+----------
 JSDoc 3 Template for AngularJS.  
 A JSDoc plugin and template for AngularJS, nothing else!  
 
