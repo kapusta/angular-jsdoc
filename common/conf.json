@@ -1,7 +1,7 @@
 {
   "plugins": [
     "node_modules/grunt-jsdoc/node_modules/jsdoc/plugins/markdown",
-    "node_modules/angular-jsdoc/common/plugins/ngdoc"
+    "node_modules/@dankapusta/angular-jsdoc/common/plugins/ngdoc"
   ],
   "templates": {
     "cleverLinks": true,
