@@ -1,6 +1,6 @@
 {
   "plugins": [
-    "node_modules/jsdoc/plugins/markdown",
+    "node_modules/grunt-jsdoc/node_modules/jsdoc/plugins/markdown",
     "node_modules/angular-jsdoc/common/plugins/ngdoc"
   ],
   "templates": {
