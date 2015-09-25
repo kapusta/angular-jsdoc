@@ -1,11 +1,11 @@
 {
-  "name": "angular-jsdoc",
+  "name": "@dankapusta/angular-jsdoc",
   "version": "1.2.1",
   "description": "JsDoc Plugin and Template for AngularJs",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:allenhwkim/angular-jsdoc.git"
+    "url": "git@github.com:kapusta/angular-jsdoc.git"
   },
   "scripts": {
     "test": "./test.sh"
