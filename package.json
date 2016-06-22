@@ -1,6 +1,6 @@
 {
   "name": "@dankapusta/angular-jsdoc",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "JsDoc Plugin and Template for AngularJs",
   "main": "index.js",
   "repository": {
